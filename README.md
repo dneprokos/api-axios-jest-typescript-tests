@@ -26,6 +26,8 @@ Before you begin, ensure you have met the following requirements:
 
 - npm test
 
+![Tests Image](/images/tests.png)
+
 ### Reporting
 
 <To be defined>
