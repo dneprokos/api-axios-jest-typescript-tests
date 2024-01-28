@@ -16,6 +16,8 @@ Before you begin, ensure you have met the following requirements:
 - Basic knowledge of TypeScript, Axios, and Jest
 - The following Microservice should be started: https://github.com/dneprokos/node-rest-services
 
+![Microservice Image](/images/microservice.png)
+
 ### Installation
 
 - Clone the repository: git clone https://github.com/your-username/api-axios-jest-typescript-tests.git
