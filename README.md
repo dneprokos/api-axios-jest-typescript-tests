@@ -30,7 +30,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Reporting
 
-<To be defined>
+- Allure command-line tool should be installed: npm install -g allure-commandline
+- Run command to open allure report(after test run): allure serve
 
+![Allure Image](/images/allure.png)
+
+### Run in docker container
+
+- Docker should be installed
+- Docker-compose should be installed
+- In CMD, run the following command "docker-compose up --build" or alternatively run powershell script "run-tests-in-docker.ps1"
+- You can navigate "http://localhost:9000/" and see Allure reports
+
+![Docker Image](/images/docker.png)
 
 
